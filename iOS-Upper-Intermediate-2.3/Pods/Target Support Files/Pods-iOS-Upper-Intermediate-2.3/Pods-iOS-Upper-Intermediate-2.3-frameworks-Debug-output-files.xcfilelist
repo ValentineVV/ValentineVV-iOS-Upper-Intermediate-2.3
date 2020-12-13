@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Print_First.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Print_Second.framework

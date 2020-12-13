@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+source 'https://github.com/ValentineVV/printFirst-specs.git'
+source 'https://github.com/ValentineVV/printSecond-specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'iOS-Upper-Intermediate-2.3' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for iOS-Upper-Intermediate-2.3
+  pod 'Print_First'
+
+end

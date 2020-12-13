@@ -1,0 +1,21 @@
+PODS:
+  - Print_First (0.1.1):
+    - Print_Second
+  - Print_Second (0.1.6)
+
+DEPENDENCIES:
+  - Print_First
+
+SPEC REPOS:
+  https://github.com/ValentineVV/printFirst-specs.git:
+    - Print_First
+  https://github.com/ValentineVV/printSecond-specs.git:
+    - Print_Second
+
+SPEC CHECKSUMS:
+  Print_First: 0a178c83a9b4d8d455342c270e7dd95b4aa23970
+  Print_Second: 599214665cd6eb8ed4158e94fc5851913a307634
+
+PODFILE CHECKSUM: 66091fbb643609f32822bc8785eace8cf1e3ce9d
+
+COCOAPODS: 1.10.0

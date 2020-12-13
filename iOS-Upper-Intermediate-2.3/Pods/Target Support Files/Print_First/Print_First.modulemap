@@ -1,0 +1,6 @@
+framework module Print_First {
+  umbrella header "Print_First-umbrella.h"
+
+  export *
+  module * { export * }
+}
